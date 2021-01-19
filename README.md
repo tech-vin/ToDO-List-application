@@ -15,3 +15,4 @@ This is a ToDo list application written purely in python &amp; postgres is used 
 ## todo
 - fix bugs in load task button
 - add functionality to search button
+- improve visual
